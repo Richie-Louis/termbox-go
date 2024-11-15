@@ -1,6 +1,6 @@
 // +build !windows
 
-package termbox
+package main
 
 import "unicode/utf8"
 import "bytes"
