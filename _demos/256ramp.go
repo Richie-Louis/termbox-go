@@ -4,7 +4,7 @@ import (
 	_ "unicode/utf8"
 
 	_ "github.com/mattn/go-runewidth"
-	"github.com/nsf/termbox-go"
+	"github.com/Richie-Louis/termbox-go"
 
 	"fmt"
 )
