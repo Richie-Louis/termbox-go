@@ -1,4 +1,5 @@
 module github.com/Richie-Louis/termbox-go
+package main
 
 go 1.15
 
