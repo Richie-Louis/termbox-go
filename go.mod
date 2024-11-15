@@ -1,4 +1,4 @@
-module github.com/nsf/termbox-go
+module github.com/Richie-Louis/termbox-go
 
 go 1.15
 
