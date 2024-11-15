@@ -1,6 +1,6 @@
 // +build !windows
 
-package main
+package termbox
 
 import "unicode/utf8"
 import "bytes"
@@ -11,10 +11,6 @@ import "strconv"
 import "os"
 import "io"
 
-// private API
-
-func main () {
-}
 
 const (
 	// for future contributors: after adding something here,
